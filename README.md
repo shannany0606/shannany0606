@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Statistics -->
 <div >
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=NorbertZheng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertZheng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=Jupyter%20Notebook" />
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NorbertZheng&margin-w=10&row=1&column=7" alt="NorbertZheng-trophy" /></a> </p>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shannany0606&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannany0606&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=Jupyter%20Notebook" />
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shannany0606&margin-w=10&row=1&column=7" alt="shannany0606-trophy" /></a> </p>
 </div>
