@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=fassial)
 
-Welcome! This is Hui(Norbert) Zheng, Ph.D. student at PKU.
+Welcome! 
 
 <!--
 **Fassial/fassial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,18 +28,6 @@ Quick Bio
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NorbertZheng&margin-w=10&row=1&column=7" alt="NorbertZheng-trophy" /></a> </p>
 </div>
 
-### 📊 Weekly development time
-<!--START_SECTION:waka-->
-
-```text
-From: 17 February 2023 - To: 24 February 2023
-
-TeX      3 hrs 57 mins   ███████████████████████░░   92.31 %
-Python   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- GitHub Activity Graph -->
 <div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NorbertZheng&theme=github" /></div>
