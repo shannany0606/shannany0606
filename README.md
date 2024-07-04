@@ -23,3 +23,5 @@ Here are some ideas to get you started:
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannany0606&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=Jupyter%20Notebook" />
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shannany0606&margin-w=10&row=1&column=7" alt="shannany0606-trophy" /></a> </p>
 </div>
+
+<img src="https://api.star-history.com/svg?repos=shannany0606/2024_LanQiao_Cup_Province,shannany0606/2022_National_Math_Modeling_Competiotion,shannany0606/OS_Experiment,[megvii-research/CoNR](https://github.com/shannany0606/2023_Lanqiao_Cup)&type=Date" height="320" width="480" />
