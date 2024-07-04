@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shannany0606&margin-w=10&row=1&column=7" alt="shannany0606-trophy" /></a> </p>
 </div>
 
-<img src="https://api.star-history.com/svg?repos=shannany0606/2024_LanQiao_Cup_Province,shannany0606/2022_National_Math_Modeling_Competiotion,shannany0606/OS_Experiment,[megvii-research/CoNR](https://github.com/shannany0606/2023_Lanqiao_Cup)&type=Date" height="320" width="480" />
+<img src="https://api.star-history.com/svg?repos=shannany0606/2024_LanQiao_Cup_Province,shannany0606/2022_National_Math_Modeling_Competiotion,shannany0606/OS_Experiment,shannany0606/2023_Lanqiao_Cup&type=Date" height="320" width="480" />
