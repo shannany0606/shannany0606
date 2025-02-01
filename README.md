@@ -4,6 +4,8 @@ Welcome!
 
 I'm going to build my homepage after publishing my first work for CVPR/ICCV/ECCV/NIPS/ICML/ICLR/ACL. 
 
+Twinkle, twinkle, little star, my repo is better with your shining stars. Could you give me a free little star⭐? Love ya😘!
+
 <!--
 **Fassial/fassial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
