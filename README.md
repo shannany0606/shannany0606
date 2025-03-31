@@ -2,7 +2,7 @@
 
 Welcome! 
 
-I'm going to build my homepage after publishing my first work at CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, or ACL.
+I'm going to build my homepage after publishing my first work at CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL or EMNLP.
 
 Twinkle, twinkle, little star, my repo is better with your shining stars. Could you give me a free little star⭐? Love ya😘!
 
