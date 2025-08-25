@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Statistics -->
-<div >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shannany0606&show_icons=true&include_all_commits=true&theme=graywhite&number_format=long&rank_icon=percentile&hide_border=true" alt="Anurag's github stats" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=shannany0606)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shannany0606&show_icons=true&include_all_commits=true&theme=graywhite&number_format=long&rank_icon=percentile&hide_border=true" alt="Anurag's github stats" />
 
 <img src="https://api.star-history.com/svg?repos=shannany0606/2024_LanQiao_Cup_Province,shannany0606/2022_National_Math_Modeling_Competiotion,shannany0606/OS_Experiment,shannany0606/2023_Lanqiao_Cup&type=Date" height="320" width="480" />
