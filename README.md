@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 <!-- GitHub Statistics -->
 <div >
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=shannany0606&show_icons=true&include_all_commits=true&theme=graywhite&number_format=long&rank_icon=percentile&hide_border=true" alt="Anurag's github stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannany0606&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=Jupyter%20Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shannany0606&show_icons=true&include_all_commits=true&theme=graywhite&number_format=long&rank_icon=percentile&hide_border=true" alt="Anurag's github stats" />
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shannany0606&margin-w=10&row=1&column=7" alt="shannany0606-trophy" /></a> </p>
 </div>
 
