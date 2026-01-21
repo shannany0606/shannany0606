@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- GitHub Statistics -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shannany0606&show_icons=true&include_all_commits=true&theme=graywhite&number_format=long&rank_icon=percentile&hide_border=true" alt="Anurag's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shannany0606&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shannany0606&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" />
 
 <img src="https://api.star-history.com/svg?repos=shannany0606/2024_LanQiao_Cup_Province,shannany0606/2022_National_Math_Modeling_Competiotion,shannany0606/OS_Experiment,shannany0606/2023_Lanqiao_Cup&type=Date" height="320" width="480" />
