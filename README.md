@@ -2,8 +2,6 @@
 
 Welcome! 
 
-I'm going to build my homepage after publishing my first work at CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL or EMNLP.
-
 Twinkle, twinkle, little star, my repo is better with your shining stars. Could you give me a free little star⭐? Love ya😘!
 
 Please note that I am only interested in discussing intriguing problems and insights, not metrics. If you are inclined to discuss publication or citation numbers, rely on numerical indicators to quantify individuals, or compare me to others, please refrain from contacting me.
